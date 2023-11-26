@@ -1,6 +1,5 @@
 import random
-# write 'hello world' to the console
-print('hello world')
+
 def play_game():
     choices = ['rock', 'paper', 'scissors']
     
